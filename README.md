@@ -1,3 +1,9 @@
+PiFMPlay original by https://github.com/Mikael-Jakhelln/PiFMPlay
+
+pifm1.c original by https://github.com/dpiponi/pifm
+
+MODIFIED VERSION FOR RASPBERRY PI 2 & 3
+
 PiFMPlay
 ========
 Its an addon for pifm(a program to transmit FM-Radio) for the raspberry pi mini computer.
